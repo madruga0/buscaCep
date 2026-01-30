@@ -69,3 +69,4 @@ btnBuscar.addEventListener("click", async () => {
     erroMsg.classList.remove("hidden");
   }
 });
+ 
